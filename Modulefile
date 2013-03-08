@@ -1,0 +1,10 @@
+name 'tdevelioglu-puppet'
+version '0.1.0'
+
+author 'Taylan Develioglu <tdevelioglu@ebuddy.com>'
+license 'Apache'
+project_page ''
+source ''
+summary ''
+description ''
+dependency 'ripienaar/concat', '==0.2.0'
